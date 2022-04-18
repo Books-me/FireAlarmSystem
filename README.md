@@ -9,7 +9,7 @@
 - [x] [Tinkercad model](https://www.tinkercad.com/things/1diNZgpkWcR-copy-of-smoke-sensor-with-buzzer/editel?sharecode=NFlMhuowVaugogugytDtkdwKj99vUt3s5BTGmQt6l8k)
 - [x] Hardware assembly
 - [x] Additional features
-  - [ ] Led control
+  - [x] Led control
 
 
 ## People
